@@ -157,7 +157,3 @@ uv run python -m expense_tracker_remote_mcp
 ```
 
 Keep expense dates in `YYYY-MM-DD` format so SQLite's text-based date range queries sort correctly.
-
-## License
-
-No license has been declared for this repository yet. Add a license before distributing or deploying the project publicly.
